@@ -1,0 +1,15 @@
+
+.header{
+   background-color: azure;   
+   border: 1px black solid;  
+    }
+    
+.card{
+   display: flex;
+   flex-direction: column;
+}
+.cardBody{
+   display: flex;
+   flex-direction: column;
+}
+
